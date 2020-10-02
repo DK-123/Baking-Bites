@@ -1,9 +1,8 @@
 # Hi! Here is a website where I share a bit about my passion for baking.
 
-```
 **Why do you like baking?**
-Well I always thought that the culinary art was a very intriguing but never had quite the knack for cooking (I was more of a burner if you know what I mean). Afterwards, I tried baking and it seemed to be quite simple, with my having to do nothing more than simply following a recipe from online. And when I finnally finished, I remembered how much my hard work paid off and how rewarding it felt. And so, I've been baking ever since, always trying to make new things, experiement with new recipes, and recently adding my own flair to the delicacies.
-```
+> Well I always thought that the culinary art was a very intriguing but never had quite the knack for cooking (I was more of a burner if you know what I mean). Afterwards, I tried baking and it seemed to be quite simple, with my having to do nothing more than simply following a recipe from online. And when I finnally finished, I remembered how much my hard work paid off and how rewarding it felt. And so, I've been baking ever since, always trying to make new things, experiement with new recipes, and recently adding my own flair to the delicacies.
+
 
 ### Markdown
 
