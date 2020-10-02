@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi! Here is a website where I share a bit about my passion for baking.
 
 You can use the [editor on GitHub](https://github.com/DK-123/Baking-Bites/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
