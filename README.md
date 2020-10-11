@@ -1,8 +1,11 @@
 # Hi! Here is a website where I share a bit about my passion for baking.
-Ever since quarantine started, I've had some extrta time to bake things so I'm going to share some of my most recent creations on this site. 
+Ever since quarantine started, I've had some extrta time to bake things. Here are some of my most recent creations! 
  
 Here is an image of a carrot cake I made. It's my first multilayered cake.
-What did I learn from this cake? I learned first of all, that the trick to 
+
+
+
+What did I learn from this cake? I learned first of all, that the trick to keep nuts afloat.
 
 **Why do you like baking?**
 > Well I always thought that the culinary art was a very intriguing but never had quite the knack for cooking (I was more of a burner if you know what I mean). Afterwards, I tried baking and it seemed to be quite simple, with my having to do nothing more than simply following a recipe from online. And when I finnally finished, I remembered how much my hard work paid off and how rewarding it felt. And so, I've been baking ever since, always trying to make new things, experiement with new recipes, and recently adding my own flair to the delicacies.
