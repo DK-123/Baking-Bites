@@ -28,6 +28,6 @@ This cake was one of my more experimental cakes. I actually used 2 different rec
 Here are some links to baking websites of people whose recipes I have utilized components of for my recipes: 
 - [Preppy Kitchen](https://preppykitchen.com/)
 - [Sally's Baking Addiction](https://sallysbakingaddiction.com/)
-- [All The Recipes](https://alltherecipes.com/) (This website also helps in finding short recipe tips such as an easy way to make buttermilk from scratch.)
+- [All Recipes](https://allrecipes.com/) (This website also helps in finding short recipe tips such as an easy way to make buttermilk from scratch.)
 
 **Happy Baking!!**
