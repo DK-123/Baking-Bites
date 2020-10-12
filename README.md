@@ -4,7 +4,7 @@ I really enjoy baking and ever since quarantine started, I've had some extra tim
 ## Carrot Cake!
 This cake was my first multilayered cake. Additionally, as I wanted to improve on my frosting skills, I decorated the cake to the best of my abilities. The dense cake batter from the grated carrots actually created a very rich and moist cake. Overall, the cake tasted remarkable, especially with the texture of the almonds cutting through parts of the cake in various areas as well as the addition of the cream cheese frosting.
 
-![Carrot Cake](https://github.com/DK-123/Baking-Bites/blob/main/Carrot%20Cake.jpg)
+![Carrot Cake](https://raw.githubusercontent.com/DK-123/Baking-Bites/main/Carrot%20Cake.jpg)
 
 ### What did I learn?
 - The trick to keep nuts afloat is to just coat them in flour to stop them from sinking to the bottom.
