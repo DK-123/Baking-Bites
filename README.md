@@ -13,7 +13,7 @@ This cake was my first multilayered cake. Additionally, as I wanted to improve o
 ## Oreo Cake!
 This cake was one of my more experimental cakes. I actually used 2 different recipes as reference and then created my own recipe using the experience with previous cakes. The frosting, however, was completely my original recipe. Although the cake batter seemed very liquidy before going into the oven, when it came out, the cake was very light and fluffy and combined with the frosting, it had an amazing taste.
 
-![Oreo Cake](Baking-Bites/Oreo Cake.jpg)
+![Oreo Cake](https://github.com/DK-123/Baking-Bites/blob/main/Oreo%20Cake.jpg)
 
 ### What did I learn?
 - One of the ways to enhance the flavor of chocolate is by adding a small amount of concentrated coffee. This also helps balance the flavor of the sugar in icing if it becomes overly sweet.
