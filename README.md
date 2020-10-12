@@ -4,7 +4,7 @@ I greatly enjoy baking and ever since quarantine started, I've had some extra ti
 ## Carrot Cake!
 This cake was my first multilayered cake. Additionally, as I wanted to improve on my frosting skills, I decorated the cake to the best of my abilities. The dense cake batter from the grated carrots actually created a very rich and moist cake. Overall, the cake tasted remarkable, especially with the texture of the almonds cutting through parts of the cake in various areas as well as the addition of the cream cheese frosting.
 
-Image
+
 
 ### What did I learn?
 - The trick to keep nuts afloat is to just coat them in flour to stop them from sinking to the bottom.
@@ -13,6 +13,7 @@ Image
 ## Oreo Cake!
 This cake was one of my more experimental cakes. I actually used 2 different recipes as reference and then created my own recipe using the experience with previous cakes. The frosting, however, was completely my original recipe. Although the cake batter seemed very liquidy before going into the oven, when it came out, the cake was very light and fluffy and combined with the frosting, it had an amazing taste.
 
+![this pc/local disk (c:)/users/A/Downloads]
 
 ### What did I learn?
 - One of the ways to enhance the flavor of chocolate is by adding a small amount of concentrated coffee. This also helps balance the flavor of the sugar in icing if it becomes overly sweet.
