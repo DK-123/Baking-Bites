@@ -24,8 +24,8 @@ This cake was one of my more experimental cakes. I actually used 2 different rec
 
 ### Thanks for stopping by! I hope you found these few tips interesting! If you're feeling hungry now from these cake pictures, I think it's time you whip out your mixer and start mixing ingredients to make your own cake.
 Here are some links to baking websites of people whose recipes I have utilized components of for my recipes: 
-- https://preppykitchen.com/
-- https://sallysbakingaddiction.com/
-- https://alltherecipes.com/
+- [Link](https://preppykitchen.com/)
+- [Link](https://sallysbakingaddiction.com/)
+- [Link](https://alltherecipes.com/)
 
 **Happy Baking!!**
